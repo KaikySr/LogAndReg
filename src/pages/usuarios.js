@@ -1,9 +1,9 @@
 import { View } from "react-native";
 
-export default function Cadastro()
+export default function Usuario()
 {
     return(
-        <View>tiauo</View>
+        <View>users</View>
     )
   
 }
